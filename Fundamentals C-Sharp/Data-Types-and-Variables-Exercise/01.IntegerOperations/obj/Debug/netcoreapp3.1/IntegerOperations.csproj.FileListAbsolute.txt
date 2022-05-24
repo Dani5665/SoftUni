@@ -1,0 +1,12 @@
+C:\Users\Yorda\source\repos\FundamentalsCSharp\IntegerOperations\bin\Debug\netcoreapp3.1\IntegerOperations.exe
+C:\Users\Yorda\source\repos\FundamentalsCSharp\IntegerOperations\bin\Debug\netcoreapp3.1\IntegerOperations.deps.json
+C:\Users\Yorda\source\repos\FundamentalsCSharp\IntegerOperations\bin\Debug\netcoreapp3.1\IntegerOperations.runtimeconfig.json
+C:\Users\Yorda\source\repos\FundamentalsCSharp\IntegerOperations\bin\Debug\netcoreapp3.1\IntegerOperations.runtimeconfig.dev.json
+C:\Users\Yorda\source\repos\FundamentalsCSharp\IntegerOperations\bin\Debug\netcoreapp3.1\IntegerOperations.dll
+C:\Users\Yorda\source\repos\FundamentalsCSharp\IntegerOperations\bin\Debug\netcoreapp3.1\IntegerOperations.pdb
+C:\Users\Yorda\source\repos\FundamentalsCSharp\IntegerOperations\obj\Debug\netcoreapp3.1\IntegerOperations.AssemblyInfoInputs.cache
+C:\Users\Yorda\source\repos\FundamentalsCSharp\IntegerOperations\obj\Debug\netcoreapp3.1\IntegerOperations.AssemblyInfo.cs
+C:\Users\Yorda\source\repos\FundamentalsCSharp\IntegerOperations\obj\Debug\netcoreapp3.1\IntegerOperations.csproj.CoreCompileInputs.cache
+C:\Users\Yorda\source\repos\FundamentalsCSharp\IntegerOperations\obj\Debug\netcoreapp3.1\IntegerOperations.dll
+C:\Users\Yorda\source\repos\FundamentalsCSharp\IntegerOperations\obj\Debug\netcoreapp3.1\IntegerOperations.pdb
+C:\Users\Yorda\source\repos\FundamentalsCSharp\IntegerOperations\obj\Debug\netcoreapp3.1\IntegerOperations.genruntimeconfig.cache

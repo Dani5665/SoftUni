@@ -1,0 +1,12 @@
+C:\Users\Yorda\source\repos\FundamentalsCSharp\7.EqualArrays\obj\Debug\netcoreapp3.1\7.EqualArrays.AssemblyInfoInputs.cache
+C:\Users\Yorda\source\repos\FundamentalsCSharp\7.EqualArrays\obj\Debug\netcoreapp3.1\7.EqualArrays.AssemblyInfo.cs
+C:\Users\Yorda\source\repos\FundamentalsCSharp\7.EqualArrays\obj\Debug\netcoreapp3.1\7.EqualArrays.csproj.CoreCompileInputs.cache
+C:\Users\Yorda\source\repos\FundamentalsCSharp\7.EqualArrays\bin\Debug\netcoreapp3.1\7.EqualArrays.exe
+C:\Users\Yorda\source\repos\FundamentalsCSharp\7.EqualArrays\bin\Debug\netcoreapp3.1\7.EqualArrays.deps.json
+C:\Users\Yorda\source\repos\FundamentalsCSharp\7.EqualArrays\bin\Debug\netcoreapp3.1\7.EqualArrays.runtimeconfig.json
+C:\Users\Yorda\source\repos\FundamentalsCSharp\7.EqualArrays\bin\Debug\netcoreapp3.1\7.EqualArrays.runtimeconfig.dev.json
+C:\Users\Yorda\source\repos\FundamentalsCSharp\7.EqualArrays\bin\Debug\netcoreapp3.1\7.EqualArrays.dll
+C:\Users\Yorda\source\repos\FundamentalsCSharp\7.EqualArrays\bin\Debug\netcoreapp3.1\7.EqualArrays.pdb
+C:\Users\Yorda\source\repos\FundamentalsCSharp\7.EqualArrays\obj\Debug\netcoreapp3.1\7.EqualArrays.dll
+C:\Users\Yorda\source\repos\FundamentalsCSharp\7.EqualArrays\obj\Debug\netcoreapp3.1\7.EqualArrays.pdb
+C:\Users\Yorda\source\repos\FundamentalsCSharp\7.EqualArrays\obj\Debug\netcoreapp3.1\7.EqualArrays.genruntimeconfig.cache

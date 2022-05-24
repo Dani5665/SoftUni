@@ -1,0 +1,13 @@
+C:\Users\Yorda\source\repos\FundamentalsCSharp\TriplesOfLatinLetters\bin\Debug\netcoreapp3.1\TriplesOfLatinLetters.exe
+C:\Users\Yorda\source\repos\FundamentalsCSharp\TriplesOfLatinLetters\bin\Debug\netcoreapp3.1\TriplesOfLatinLetters.deps.json
+C:\Users\Yorda\source\repos\FundamentalsCSharp\TriplesOfLatinLetters\bin\Debug\netcoreapp3.1\TriplesOfLatinLetters.runtimeconfig.json
+C:\Users\Yorda\source\repos\FundamentalsCSharp\TriplesOfLatinLetters\bin\Debug\netcoreapp3.1\TriplesOfLatinLetters.runtimeconfig.dev.json
+C:\Users\Yorda\source\repos\FundamentalsCSharp\TriplesOfLatinLetters\bin\Debug\netcoreapp3.1\TriplesOfLatinLetters.dll
+C:\Users\Yorda\source\repos\FundamentalsCSharp\TriplesOfLatinLetters\bin\Debug\netcoreapp3.1\TriplesOfLatinLetters.pdb
+C:\Users\Yorda\source\repos\FundamentalsCSharp\TriplesOfLatinLetters\obj\Debug\netcoreapp3.1\TriplesOfLatinLetters.csprojAssemblyReference.cache
+C:\Users\Yorda\source\repos\FundamentalsCSharp\TriplesOfLatinLetters\obj\Debug\netcoreapp3.1\TriplesOfLatinLetters.AssemblyInfoInputs.cache
+C:\Users\Yorda\source\repos\FundamentalsCSharp\TriplesOfLatinLetters\obj\Debug\netcoreapp3.1\TriplesOfLatinLetters.AssemblyInfo.cs
+C:\Users\Yorda\source\repos\FundamentalsCSharp\TriplesOfLatinLetters\obj\Debug\netcoreapp3.1\TriplesOfLatinLetters.csproj.CoreCompileInputs.cache
+C:\Users\Yorda\source\repos\FundamentalsCSharp\TriplesOfLatinLetters\obj\Debug\netcoreapp3.1\TriplesOfLatinLetters.dll
+C:\Users\Yorda\source\repos\FundamentalsCSharp\TriplesOfLatinLetters\obj\Debug\netcoreapp3.1\TriplesOfLatinLetters.pdb
+C:\Users\Yorda\source\repos\FundamentalsCSharp\TriplesOfLatinLetters\obj\Debug\netcoreapp3.1\TriplesOfLatinLetters.genruntimeconfig.cache

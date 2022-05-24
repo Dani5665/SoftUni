@@ -1,0 +1,12 @@
+C:\Users\Yorda\source\repos\FundamentalsCSharp\MultiplicationTable\bin\Debug\netcoreapp3.1\MultiplicationTable.exe
+C:\Users\Yorda\source\repos\FundamentalsCSharp\MultiplicationTable\bin\Debug\netcoreapp3.1\MultiplicationTable.deps.json
+C:\Users\Yorda\source\repos\FundamentalsCSharp\MultiplicationTable\bin\Debug\netcoreapp3.1\MultiplicationTable.runtimeconfig.json
+C:\Users\Yorda\source\repos\FundamentalsCSharp\MultiplicationTable\bin\Debug\netcoreapp3.1\MultiplicationTable.runtimeconfig.dev.json
+C:\Users\Yorda\source\repos\FundamentalsCSharp\MultiplicationTable\bin\Debug\netcoreapp3.1\MultiplicationTable.dll
+C:\Users\Yorda\source\repos\FundamentalsCSharp\MultiplicationTable\bin\Debug\netcoreapp3.1\MultiplicationTable.pdb
+C:\Users\Yorda\source\repos\FundamentalsCSharp\MultiplicationTable\obj\Debug\netcoreapp3.1\MultiplicationTable.AssemblyInfoInputs.cache
+C:\Users\Yorda\source\repos\FundamentalsCSharp\MultiplicationTable\obj\Debug\netcoreapp3.1\MultiplicationTable.AssemblyInfo.cs
+C:\Users\Yorda\source\repos\FundamentalsCSharp\MultiplicationTable\obj\Debug\netcoreapp3.1\MultiplicationTable.csproj.CoreCompileInputs.cache
+C:\Users\Yorda\source\repos\FundamentalsCSharp\MultiplicationTable\obj\Debug\netcoreapp3.1\MultiplicationTable.dll
+C:\Users\Yorda\source\repos\FundamentalsCSharp\MultiplicationTable\obj\Debug\netcoreapp3.1\MultiplicationTable.pdb
+C:\Users\Yorda\source\repos\FundamentalsCSharp\MultiplicationTable\obj\Debug\netcoreapp3.1\MultiplicationTable.genruntimeconfig.cache

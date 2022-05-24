@@ -1,0 +1,13 @@
+C:\Users\Yorda\source\repos\FundamentalsCSharp\3.RoundingNumbers\bin\Debug\netcoreapp3.1\3.RoundingNumbers.exe
+C:\Users\Yorda\source\repos\FundamentalsCSharp\3.RoundingNumbers\bin\Debug\netcoreapp3.1\3.RoundingNumbers.deps.json
+C:\Users\Yorda\source\repos\FundamentalsCSharp\3.RoundingNumbers\bin\Debug\netcoreapp3.1\3.RoundingNumbers.runtimeconfig.json
+C:\Users\Yorda\source\repos\FundamentalsCSharp\3.RoundingNumbers\bin\Debug\netcoreapp3.1\3.RoundingNumbers.runtimeconfig.dev.json
+C:\Users\Yorda\source\repos\FundamentalsCSharp\3.RoundingNumbers\bin\Debug\netcoreapp3.1\3.RoundingNumbers.dll
+C:\Users\Yorda\source\repos\FundamentalsCSharp\3.RoundingNumbers\bin\Debug\netcoreapp3.1\3.RoundingNumbers.pdb
+C:\Users\Yorda\source\repos\FundamentalsCSharp\3.RoundingNumbers\obj\Debug\netcoreapp3.1\3.RoundingNumbers.csprojAssemblyReference.cache
+C:\Users\Yorda\source\repos\FundamentalsCSharp\3.RoundingNumbers\obj\Debug\netcoreapp3.1\3.RoundingNumbers.AssemblyInfoInputs.cache
+C:\Users\Yorda\source\repos\FundamentalsCSharp\3.RoundingNumbers\obj\Debug\netcoreapp3.1\3.RoundingNumbers.AssemblyInfo.cs
+C:\Users\Yorda\source\repos\FundamentalsCSharp\3.RoundingNumbers\obj\Debug\netcoreapp3.1\3.RoundingNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Yorda\source\repos\FundamentalsCSharp\3.RoundingNumbers\obj\Debug\netcoreapp3.1\3.RoundingNumbers.dll
+C:\Users\Yorda\source\repos\FundamentalsCSharp\3.RoundingNumbers\obj\Debug\netcoreapp3.1\3.RoundingNumbers.pdb
+C:\Users\Yorda\source\repos\FundamentalsCSharp\3.RoundingNumbers\obj\Debug\netcoreapp3.1\3.RoundingNumbers.genruntimeconfig.cache

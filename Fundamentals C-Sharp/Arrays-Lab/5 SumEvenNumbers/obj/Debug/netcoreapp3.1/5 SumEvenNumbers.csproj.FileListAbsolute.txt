@@ -1,0 +1,12 @@
+C:\Users\Yorda\source\repos\FundamentalsCSharp\5 SumEvenNumbers\bin\Debug\netcoreapp3.1\5 SumEvenNumbers.exe
+C:\Users\Yorda\source\repos\FundamentalsCSharp\5 SumEvenNumbers\bin\Debug\netcoreapp3.1\5 SumEvenNumbers.deps.json
+C:\Users\Yorda\source\repos\FundamentalsCSharp\5 SumEvenNumbers\bin\Debug\netcoreapp3.1\5 SumEvenNumbers.runtimeconfig.json
+C:\Users\Yorda\source\repos\FundamentalsCSharp\5 SumEvenNumbers\bin\Debug\netcoreapp3.1\5 SumEvenNumbers.runtimeconfig.dev.json
+C:\Users\Yorda\source\repos\FundamentalsCSharp\5 SumEvenNumbers\bin\Debug\netcoreapp3.1\5 SumEvenNumbers.dll
+C:\Users\Yorda\source\repos\FundamentalsCSharp\5 SumEvenNumbers\bin\Debug\netcoreapp3.1\5 SumEvenNumbers.pdb
+C:\Users\Yorda\source\repos\FundamentalsCSharp\5 SumEvenNumbers\obj\Debug\netcoreapp3.1\5 SumEvenNumbers.AssemblyInfoInputs.cache
+C:\Users\Yorda\source\repos\FundamentalsCSharp\5 SumEvenNumbers\obj\Debug\netcoreapp3.1\5 SumEvenNumbers.AssemblyInfo.cs
+C:\Users\Yorda\source\repos\FundamentalsCSharp\5 SumEvenNumbers\obj\Debug\netcoreapp3.1\5 SumEvenNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Yorda\source\repos\FundamentalsCSharp\5 SumEvenNumbers\obj\Debug\netcoreapp3.1\5 SumEvenNumbers.dll
+C:\Users\Yorda\source\repos\FundamentalsCSharp\5 SumEvenNumbers\obj\Debug\netcoreapp3.1\5 SumEvenNumbers.pdb
+C:\Users\Yorda\source\repos\FundamentalsCSharp\5 SumEvenNumbers\obj\Debug\netcoreapp3.1\5 SumEvenNumbers.genruntimeconfig.cache

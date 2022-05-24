@@ -1,0 +1,12 @@
+C:\Users\Yorda\source\repos\FundamentalsCSharp\2.PrintNumbersInReverseOrder\bin\Debug\netcoreapp3.1\2.PrintNumbersInReverseOrder.exe
+C:\Users\Yorda\source\repos\FundamentalsCSharp\2.PrintNumbersInReverseOrder\bin\Debug\netcoreapp3.1\2.PrintNumbersInReverseOrder.deps.json
+C:\Users\Yorda\source\repos\FundamentalsCSharp\2.PrintNumbersInReverseOrder\bin\Debug\netcoreapp3.1\2.PrintNumbersInReverseOrder.runtimeconfig.json
+C:\Users\Yorda\source\repos\FundamentalsCSharp\2.PrintNumbersInReverseOrder\bin\Debug\netcoreapp3.1\2.PrintNumbersInReverseOrder.runtimeconfig.dev.json
+C:\Users\Yorda\source\repos\FundamentalsCSharp\2.PrintNumbersInReverseOrder\bin\Debug\netcoreapp3.1\2.PrintNumbersInReverseOrder.dll
+C:\Users\Yorda\source\repos\FundamentalsCSharp\2.PrintNumbersInReverseOrder\bin\Debug\netcoreapp3.1\2.PrintNumbersInReverseOrder.pdb
+C:\Users\Yorda\source\repos\FundamentalsCSharp\2.PrintNumbersInReverseOrder\obj\Debug\netcoreapp3.1\2.PrintNumbersInReverseOrder.AssemblyInfoInputs.cache
+C:\Users\Yorda\source\repos\FundamentalsCSharp\2.PrintNumbersInReverseOrder\obj\Debug\netcoreapp3.1\2.PrintNumbersInReverseOrder.AssemblyInfo.cs
+C:\Users\Yorda\source\repos\FundamentalsCSharp\2.PrintNumbersInReverseOrder\obj\Debug\netcoreapp3.1\2.PrintNumbersInReverseOrder.csproj.CoreCompileInputs.cache
+C:\Users\Yorda\source\repos\FundamentalsCSharp\2.PrintNumbersInReverseOrder\obj\Debug\netcoreapp3.1\2.PrintNumbersInReverseOrder.dll
+C:\Users\Yorda\source\repos\FundamentalsCSharp\2.PrintNumbersInReverseOrder\obj\Debug\netcoreapp3.1\2.PrintNumbersInReverseOrder.pdb
+C:\Users\Yorda\source\repos\FundamentalsCSharp\2.PrintNumbersInReverseOrder\obj\Debug\netcoreapp3.1\2.PrintNumbersInReverseOrder.genruntimeconfig.cache
