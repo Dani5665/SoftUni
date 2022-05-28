@@ -19,34 +19,37 @@ namespace _10.Crossroads
             {
                 if (command == "green")
                 {
-                    string currentCar = carQueue.Dequeue();
-                    int timeToPass = greenLight + freeWindow;
-
-                    while (timeToPass > 0)
+                    if (carQueue.Count > 0)
                     {
-                        if (currentCar.Length > timeToPass)
+                        string currentCar = carQueue.Dequeue();
+                        int timeToPass = greenLight + freeWindow;
+
+                        while (timeToPass > 0)
                         {
-                            Console.WriteLine("A crash happened!");
-                            Console.WriteLine($"{currentCar} was hit at {currentCar.Substring(timeToPass,1)}");
-                            goto endProgram;
-                        }
-                        else
-                        {
-                            carCounter++;
-                            timeToPass -= currentCar.Length;
-                            if (timeToPass <= freeWindow)
+                            if (currentCar.Length > timeToPass)
                             {
-                                goto newCommand;
+                                Console.WriteLine("A crash happened!");
+                                Console.WriteLine($"{currentCar} was hit at {currentCar.Substring(timeToPass, 1)}.");
+                                goto endProgram;
                             }
                             else
                             {
-                                if (carQueue.Count > 0)
+                                carCounter++;
+                                timeToPass -= currentCar.Length;
+                                if (timeToPass <= freeWindow)
                                 {
-                                currentCar = carQueue.Dequeue();
+                                    goto newCommand;
                                 }
                                 else
                                 {
-                                    goto newCommand;
+                                    if (carQueue.Count > 0)
+                                    {
+                                        currentCar = carQueue.Dequeue();
+                                    }
+                                    else
+                                    {
+                                        goto newCommand;
+                                    }
                                 }
                             }
                         }
