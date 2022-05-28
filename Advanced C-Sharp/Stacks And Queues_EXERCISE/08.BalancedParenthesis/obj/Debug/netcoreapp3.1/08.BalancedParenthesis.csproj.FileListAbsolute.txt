@@ -1,0 +1,13 @@
+D:\Softuni Exersises\Advanced\StacksAndQueues_EXERCISE\08.BalancedParenthesis\obj\Debug\netcoreapp3.1\08.BalancedParenthesis.AssemblyInfoInputs.cache
+D:\Softuni Exersises\Advanced\StacksAndQueues_EXERCISE\08.BalancedParenthesis\obj\Debug\netcoreapp3.1\08.BalancedParenthesis.AssemblyInfo.cs
+D:\Softuni Exersises\Advanced\StacksAndQueues_EXERCISE\08.BalancedParenthesis\obj\Debug\netcoreapp3.1\08.BalancedParenthesis.csproj.CoreCompileInputs.cache
+D:\Softuni Exersises\Advanced\StacksAndQueues_EXERCISE\08.BalancedParenthesis\bin\Debug\netcoreapp3.1\08.BalancedParenthesis.exe
+D:\Softuni Exersises\Advanced\StacksAndQueues_EXERCISE\08.BalancedParenthesis\bin\Debug\netcoreapp3.1\08.BalancedParenthesis.deps.json
+D:\Softuni Exersises\Advanced\StacksAndQueues_EXERCISE\08.BalancedParenthesis\bin\Debug\netcoreapp3.1\08.BalancedParenthesis.runtimeconfig.json
+D:\Softuni Exersises\Advanced\StacksAndQueues_EXERCISE\08.BalancedParenthesis\bin\Debug\netcoreapp3.1\08.BalancedParenthesis.runtimeconfig.dev.json
+D:\Softuni Exersises\Advanced\StacksAndQueues_EXERCISE\08.BalancedParenthesis\bin\Debug\netcoreapp3.1\08.BalancedParenthesis.dll
+D:\Softuni Exersises\Advanced\StacksAndQueues_EXERCISE\08.BalancedParenthesis\bin\Debug\netcoreapp3.1\08.BalancedParenthesis.pdb
+D:\Softuni Exersises\Advanced\StacksAndQueues_EXERCISE\08.BalancedParenthesis\obj\Debug\netcoreapp3.1\08.BalancedParenthesis.dll
+D:\Softuni Exersises\Advanced\StacksAndQueues_EXERCISE\08.BalancedParenthesis\obj\Debug\netcoreapp3.1\08.BalancedParenthesis.pdb
+D:\Softuni Exersises\Advanced\StacksAndQueues_EXERCISE\08.BalancedParenthesis\obj\Debug\netcoreapp3.1\08.BalancedParenthesis.genruntimeconfig.cache
+D:\Softuni Exersises\Advanced\StacksAndQueues_EXERCISE\08.BalancedParenthesis\obj\Debug\netcoreapp3.1\08.BalancedParenthesis.csprojAssemblyReference.cache
