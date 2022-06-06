@@ -1,0 +1,13 @@
+D:\Softuni Exersises\Advanced\MultidimensionalArrays_LAB\7.PascalTriangle\bin\Debug\netcoreapp3.1\7.PascalTriangle.exe
+D:\Softuni Exersises\Advanced\MultidimensionalArrays_LAB\7.PascalTriangle\bin\Debug\netcoreapp3.1\7.PascalTriangle.deps.json
+D:\Softuni Exersises\Advanced\MultidimensionalArrays_LAB\7.PascalTriangle\bin\Debug\netcoreapp3.1\7.PascalTriangle.runtimeconfig.json
+D:\Softuni Exersises\Advanced\MultidimensionalArrays_LAB\7.PascalTriangle\bin\Debug\netcoreapp3.1\7.PascalTriangle.runtimeconfig.dev.json
+D:\Softuni Exersises\Advanced\MultidimensionalArrays_LAB\7.PascalTriangle\bin\Debug\netcoreapp3.1\7.PascalTriangle.dll
+D:\Softuni Exersises\Advanced\MultidimensionalArrays_LAB\7.PascalTriangle\bin\Debug\netcoreapp3.1\7.PascalTriangle.pdb
+D:\Softuni Exersises\Advanced\MultidimensionalArrays_LAB\7.PascalTriangle\obj\Debug\netcoreapp3.1\7.PascalTriangle.csprojAssemblyReference.cache
+D:\Softuni Exersises\Advanced\MultidimensionalArrays_LAB\7.PascalTriangle\obj\Debug\netcoreapp3.1\7.PascalTriangle.AssemblyInfoInputs.cache
+D:\Softuni Exersises\Advanced\MultidimensionalArrays_LAB\7.PascalTriangle\obj\Debug\netcoreapp3.1\7.PascalTriangle.AssemblyInfo.cs
+D:\Softuni Exersises\Advanced\MultidimensionalArrays_LAB\7.PascalTriangle\obj\Debug\netcoreapp3.1\7.PascalTriangle.csproj.CoreCompileInputs.cache
+D:\Softuni Exersises\Advanced\MultidimensionalArrays_LAB\7.PascalTriangle\obj\Debug\netcoreapp3.1\7.PascalTriangle.dll
+D:\Softuni Exersises\Advanced\MultidimensionalArrays_LAB\7.PascalTriangle\obj\Debug\netcoreapp3.1\7.PascalTriangle.pdb
+D:\Softuni Exersises\Advanced\MultidimensionalArrays_LAB\7.PascalTriangle\obj\Debug\netcoreapp3.1\7.PascalTriangle.genruntimeconfig.cache
