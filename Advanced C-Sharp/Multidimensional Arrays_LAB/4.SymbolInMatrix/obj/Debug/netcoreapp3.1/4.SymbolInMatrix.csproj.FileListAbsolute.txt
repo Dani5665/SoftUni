@@ -1,0 +1,13 @@
+D:\Softuni Exersises\Advanced\MultidimensionalArrays_LAB\4.SymbolInMatrix\bin\Debug\netcoreapp3.1\4.SymbolInMatrix.exe
+D:\Softuni Exersises\Advanced\MultidimensionalArrays_LAB\4.SymbolInMatrix\bin\Debug\netcoreapp3.1\4.SymbolInMatrix.deps.json
+D:\Softuni Exersises\Advanced\MultidimensionalArrays_LAB\4.SymbolInMatrix\bin\Debug\netcoreapp3.1\4.SymbolInMatrix.runtimeconfig.json
+D:\Softuni Exersises\Advanced\MultidimensionalArrays_LAB\4.SymbolInMatrix\bin\Debug\netcoreapp3.1\4.SymbolInMatrix.runtimeconfig.dev.json
+D:\Softuni Exersises\Advanced\MultidimensionalArrays_LAB\4.SymbolInMatrix\bin\Debug\netcoreapp3.1\4.SymbolInMatrix.dll
+D:\Softuni Exersises\Advanced\MultidimensionalArrays_LAB\4.SymbolInMatrix\bin\Debug\netcoreapp3.1\4.SymbolInMatrix.pdb
+D:\Softuni Exersises\Advanced\MultidimensionalArrays_LAB\4.SymbolInMatrix\obj\Debug\netcoreapp3.1\4.SymbolInMatrix.csprojAssemblyReference.cache
+D:\Softuni Exersises\Advanced\MultidimensionalArrays_LAB\4.SymbolInMatrix\obj\Debug\netcoreapp3.1\4.SymbolInMatrix.AssemblyInfoInputs.cache
+D:\Softuni Exersises\Advanced\MultidimensionalArrays_LAB\4.SymbolInMatrix\obj\Debug\netcoreapp3.1\4.SymbolInMatrix.AssemblyInfo.cs
+D:\Softuni Exersises\Advanced\MultidimensionalArrays_LAB\4.SymbolInMatrix\obj\Debug\netcoreapp3.1\4.SymbolInMatrix.csproj.CoreCompileInputs.cache
+D:\Softuni Exersises\Advanced\MultidimensionalArrays_LAB\4.SymbolInMatrix\obj\Debug\netcoreapp3.1\4.SymbolInMatrix.dll
+D:\Softuni Exersises\Advanced\MultidimensionalArrays_LAB\4.SymbolInMatrix\obj\Debug\netcoreapp3.1\4.SymbolInMatrix.pdb
+D:\Softuni Exersises\Advanced\MultidimensionalArrays_LAB\4.SymbolInMatrix\obj\Debug\netcoreapp3.1\4.SymbolInMatrix.genruntimeconfig.cache
