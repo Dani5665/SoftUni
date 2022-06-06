@@ -1,0 +1,13 @@
+D:\Softuni Exersises\Advanced\MultidimensionalArrays_LAB\2.SumMatrixColumns\bin\Debug\netcoreapp3.1\2.SumMatrixColumns.exe
+D:\Softuni Exersises\Advanced\MultidimensionalArrays_LAB\2.SumMatrixColumns\bin\Debug\netcoreapp3.1\2.SumMatrixColumns.deps.json
+D:\Softuni Exersises\Advanced\MultidimensionalArrays_LAB\2.SumMatrixColumns\bin\Debug\netcoreapp3.1\2.SumMatrixColumns.runtimeconfig.json
+D:\Softuni Exersises\Advanced\MultidimensionalArrays_LAB\2.SumMatrixColumns\bin\Debug\netcoreapp3.1\2.SumMatrixColumns.runtimeconfig.dev.json
+D:\Softuni Exersises\Advanced\MultidimensionalArrays_LAB\2.SumMatrixColumns\bin\Debug\netcoreapp3.1\2.SumMatrixColumns.dll
+D:\Softuni Exersises\Advanced\MultidimensionalArrays_LAB\2.SumMatrixColumns\bin\Debug\netcoreapp3.1\2.SumMatrixColumns.pdb
+D:\Softuni Exersises\Advanced\MultidimensionalArrays_LAB\2.SumMatrixColumns\obj\Debug\netcoreapp3.1\2.SumMatrixColumns.csprojAssemblyReference.cache
+D:\Softuni Exersises\Advanced\MultidimensionalArrays_LAB\2.SumMatrixColumns\obj\Debug\netcoreapp3.1\2.SumMatrixColumns.AssemblyInfoInputs.cache
+D:\Softuni Exersises\Advanced\MultidimensionalArrays_LAB\2.SumMatrixColumns\obj\Debug\netcoreapp3.1\2.SumMatrixColumns.AssemblyInfo.cs
+D:\Softuni Exersises\Advanced\MultidimensionalArrays_LAB\2.SumMatrixColumns\obj\Debug\netcoreapp3.1\2.SumMatrixColumns.csproj.CoreCompileInputs.cache
+D:\Softuni Exersises\Advanced\MultidimensionalArrays_LAB\2.SumMatrixColumns\obj\Debug\netcoreapp3.1\2.SumMatrixColumns.dll
+D:\Softuni Exersises\Advanced\MultidimensionalArrays_LAB\2.SumMatrixColumns\obj\Debug\netcoreapp3.1\2.SumMatrixColumns.pdb
+D:\Softuni Exersises\Advanced\MultidimensionalArrays_LAB\2.SumMatrixColumns\obj\Debug\netcoreapp3.1\2.SumMatrixColumns.genruntimeconfig.cache
