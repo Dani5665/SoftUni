@@ -1,0 +1,13 @@
+D:\Softuni Exersises\Advanced\MultidimensionalArrays_LAB\6.JaggedArrayModification\bin\Debug\netcoreapp3.1\6.JaggedArrayModification.exe
+D:\Softuni Exersises\Advanced\MultidimensionalArrays_LAB\6.JaggedArrayModification\bin\Debug\netcoreapp3.1\6.JaggedArrayModification.deps.json
+D:\Softuni Exersises\Advanced\MultidimensionalArrays_LAB\6.JaggedArrayModification\bin\Debug\netcoreapp3.1\6.JaggedArrayModification.runtimeconfig.json
+D:\Softuni Exersises\Advanced\MultidimensionalArrays_LAB\6.JaggedArrayModification\bin\Debug\netcoreapp3.1\6.JaggedArrayModification.runtimeconfig.dev.json
+D:\Softuni Exersises\Advanced\MultidimensionalArrays_LAB\6.JaggedArrayModification\bin\Debug\netcoreapp3.1\6.JaggedArrayModification.dll
+D:\Softuni Exersises\Advanced\MultidimensionalArrays_LAB\6.JaggedArrayModification\bin\Debug\netcoreapp3.1\6.JaggedArrayModification.pdb
+D:\Softuni Exersises\Advanced\MultidimensionalArrays_LAB\6.JaggedArrayModification\obj\Debug\netcoreapp3.1\6.JaggedArrayModification.csprojAssemblyReference.cache
+D:\Softuni Exersises\Advanced\MultidimensionalArrays_LAB\6.JaggedArrayModification\obj\Debug\netcoreapp3.1\6.JaggedArrayModification.AssemblyInfoInputs.cache
+D:\Softuni Exersises\Advanced\MultidimensionalArrays_LAB\6.JaggedArrayModification\obj\Debug\netcoreapp3.1\6.JaggedArrayModification.AssemblyInfo.cs
+D:\Softuni Exersises\Advanced\MultidimensionalArrays_LAB\6.JaggedArrayModification\obj\Debug\netcoreapp3.1\6.JaggedArrayModification.csproj.CoreCompileInputs.cache
+D:\Softuni Exersises\Advanced\MultidimensionalArrays_LAB\6.JaggedArrayModification\obj\Debug\netcoreapp3.1\6.JaggedArrayModification.dll
+D:\Softuni Exersises\Advanced\MultidimensionalArrays_LAB\6.JaggedArrayModification\obj\Debug\netcoreapp3.1\6.JaggedArrayModification.pdb
+D:\Softuni Exersises\Advanced\MultidimensionalArrays_LAB\6.JaggedArrayModification\obj\Debug\netcoreapp3.1\6.JaggedArrayModification.genruntimeconfig.cache
