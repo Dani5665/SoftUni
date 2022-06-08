@@ -26,12 +26,12 @@ namespace _1.Diagonal_Difference
             int sum = 0;
 
             //primary diagonal
-            for (int i = 0; i < length; i++)
+            for (int row = 0; row < table.GetLength(0); row++)
             {
-
+                primaryDiagonal += table[row, row];
             }
             //secondary diagonal
-            int colBackwards = 2;
+            int colBackwards = table.GetLength(1) - 1;
             for (int row = 0; row < table.GetLength(0); row++)
             {
                 secondaryDiagonal += table[row, colBackwards];
