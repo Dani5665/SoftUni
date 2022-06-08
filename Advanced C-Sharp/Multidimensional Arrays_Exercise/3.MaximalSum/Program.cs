@@ -8,7 +8,7 @@ namespace _3.MaximalSum
         static void Main(string[] args)
         {
             int[] dimencions = Console.ReadLine()
-                .Split(" ")
+                .Split(" ",StringSplitOptions.RemoveEmptyEntries)
                 .Select(int.Parse)
                 .ToArray();
             int[,] table = new int[dimencions[0], dimencions[1]];
@@ -19,7 +19,7 @@ namespace _3.MaximalSum
                 for (int row = 0; row < table.GetLength(0); row++)
                 {
                     int[] rowNumbers = Console.ReadLine()
-                        .Split(" ")
+                        .Split(" ", StringSplitOptions.RemoveEmptyEntries)
                         .Select(int.Parse)
                         .ToArray();
                     for (int col = 0; col < table.GetLength(1); col++)
@@ -51,9 +51,9 @@ namespace _3.MaximalSum
                 }
 
                 Console.WriteLine($"Sum = {sum}");
-                for (int row = sumRow; row < sumRow + 3; row++)
+                for (int row = sumRow; row <= sumRow + 2; row++)
                 {
-                    for (int col = sumCol; col < sumCol + 3; col++)
+                    for (int col = sumCol; col <= sumCol + 2; col++)
                     {
                         Console.Write($"{table[row, col]} ");
                     }
