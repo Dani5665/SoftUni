@@ -3,11 +3,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp3.1</TargetFramework>
-    <RootNamespace>_02.AverageStudentGrades</RootNamespace>
+    <RootNamespace>_03.Largest3Numbers</RootNamespace>
   </PropertyGroup>
-
-  <ItemGroup>
-    <None Remove="Program.cs~RF54c3a94.TMP" />
-  </ItemGroup>
 
 </Project>
