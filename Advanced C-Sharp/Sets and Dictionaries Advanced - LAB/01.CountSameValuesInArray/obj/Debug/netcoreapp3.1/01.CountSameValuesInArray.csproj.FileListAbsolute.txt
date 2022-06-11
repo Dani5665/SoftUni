@@ -1,0 +1,13 @@
+D:\GitHub SoftUni\Softuni\Advanced C-Sharp\Sets and Dictionaries Advanced - LAB\01.CountSameValuesInArray\bin\Debug\netcoreapp3.1\01.CountSameValuesInArray.exe
+D:\GitHub SoftUni\Softuni\Advanced C-Sharp\Sets and Dictionaries Advanced - LAB\01.CountSameValuesInArray\bin\Debug\netcoreapp3.1\01.CountSameValuesInArray.deps.json
+D:\GitHub SoftUni\Softuni\Advanced C-Sharp\Sets and Dictionaries Advanced - LAB\01.CountSameValuesInArray\bin\Debug\netcoreapp3.1\01.CountSameValuesInArray.runtimeconfig.json
+D:\GitHub SoftUni\Softuni\Advanced C-Sharp\Sets and Dictionaries Advanced - LAB\01.CountSameValuesInArray\bin\Debug\netcoreapp3.1\01.CountSameValuesInArray.runtimeconfig.dev.json
+D:\GitHub SoftUni\Softuni\Advanced C-Sharp\Sets and Dictionaries Advanced - LAB\01.CountSameValuesInArray\bin\Debug\netcoreapp3.1\01.CountSameValuesInArray.dll
+D:\GitHub SoftUni\Softuni\Advanced C-Sharp\Sets and Dictionaries Advanced - LAB\01.CountSameValuesInArray\bin\Debug\netcoreapp3.1\01.CountSameValuesInArray.pdb
+D:\GitHub SoftUni\Softuni\Advanced C-Sharp\Sets and Dictionaries Advanced - LAB\01.CountSameValuesInArray\obj\Debug\netcoreapp3.1\01.CountSameValuesInArray.csprojAssemblyReference.cache
+D:\GitHub SoftUni\Softuni\Advanced C-Sharp\Sets and Dictionaries Advanced - LAB\01.CountSameValuesInArray\obj\Debug\netcoreapp3.1\01.CountSameValuesInArray.AssemblyInfoInputs.cache
+D:\GitHub SoftUni\Softuni\Advanced C-Sharp\Sets and Dictionaries Advanced - LAB\01.CountSameValuesInArray\obj\Debug\netcoreapp3.1\01.CountSameValuesInArray.AssemblyInfo.cs
+D:\GitHub SoftUni\Softuni\Advanced C-Sharp\Sets and Dictionaries Advanced - LAB\01.CountSameValuesInArray\obj\Debug\netcoreapp3.1\01.CountSameValuesInArray.csproj.CoreCompileInputs.cache
+D:\GitHub SoftUni\Softuni\Advanced C-Sharp\Sets and Dictionaries Advanced - LAB\01.CountSameValuesInArray\obj\Debug\netcoreapp3.1\01.CountSameValuesInArray.dll
+D:\GitHub SoftUni\Softuni\Advanced C-Sharp\Sets and Dictionaries Advanced - LAB\01.CountSameValuesInArray\obj\Debug\netcoreapp3.1\01.CountSameValuesInArray.pdb
+D:\GitHub SoftUni\Softuni\Advanced C-Sharp\Sets and Dictionaries Advanced - LAB\01.CountSameValuesInArray\obj\Debug\netcoreapp3.1\01.CountSameValuesInArray.genruntimeconfig.cache

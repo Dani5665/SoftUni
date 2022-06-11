@@ -1,0 +1,13 @@
+D:\GitHub SoftUni\Softuni\Advanced C-Sharp\Sets and Dictionaries Advanced - LAB\02.AverageStudentGrades\bin\Debug\netcoreapp3.1\02.AverageStudentGrades.exe
+D:\GitHub SoftUni\Softuni\Advanced C-Sharp\Sets and Dictionaries Advanced - LAB\02.AverageStudentGrades\bin\Debug\netcoreapp3.1\02.AverageStudentGrades.deps.json
+D:\GitHub SoftUni\Softuni\Advanced C-Sharp\Sets and Dictionaries Advanced - LAB\02.AverageStudentGrades\bin\Debug\netcoreapp3.1\02.AverageStudentGrades.runtimeconfig.json
+D:\GitHub SoftUni\Softuni\Advanced C-Sharp\Sets and Dictionaries Advanced - LAB\02.AverageStudentGrades\bin\Debug\netcoreapp3.1\02.AverageStudentGrades.runtimeconfig.dev.json
+D:\GitHub SoftUni\Softuni\Advanced C-Sharp\Sets and Dictionaries Advanced - LAB\02.AverageStudentGrades\bin\Debug\netcoreapp3.1\02.AverageStudentGrades.dll
+D:\GitHub SoftUni\Softuni\Advanced C-Sharp\Sets and Dictionaries Advanced - LAB\02.AverageStudentGrades\bin\Debug\netcoreapp3.1\02.AverageStudentGrades.pdb
+D:\GitHub SoftUni\Softuni\Advanced C-Sharp\Sets and Dictionaries Advanced - LAB\02.AverageStudentGrades\obj\Debug\netcoreapp3.1\02.AverageStudentGrades.csprojAssemblyReference.cache
+D:\GitHub SoftUni\Softuni\Advanced C-Sharp\Sets and Dictionaries Advanced - LAB\02.AverageStudentGrades\obj\Debug\netcoreapp3.1\02.AverageStudentGrades.AssemblyInfoInputs.cache
+D:\GitHub SoftUni\Softuni\Advanced C-Sharp\Sets and Dictionaries Advanced - LAB\02.AverageStudentGrades\obj\Debug\netcoreapp3.1\02.AverageStudentGrades.AssemblyInfo.cs
+D:\GitHub SoftUni\Softuni\Advanced C-Sharp\Sets and Dictionaries Advanced - LAB\02.AverageStudentGrades\obj\Debug\netcoreapp3.1\02.AverageStudentGrades.csproj.CoreCompileInputs.cache
+D:\GitHub SoftUni\Softuni\Advanced C-Sharp\Sets and Dictionaries Advanced - LAB\02.AverageStudentGrades\obj\Debug\netcoreapp3.1\02.AverageStudentGrades.dll
+D:\GitHub SoftUni\Softuni\Advanced C-Sharp\Sets and Dictionaries Advanced - LAB\02.AverageStudentGrades\obj\Debug\netcoreapp3.1\02.AverageStudentGrades.pdb
+D:\GitHub SoftUni\Softuni\Advanced C-Sharp\Sets and Dictionaries Advanced - LAB\02.AverageStudentGrades\obj\Debug\netcoreapp3.1\02.AverageStudentGrades.genruntimeconfig.cache
