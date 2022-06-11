@@ -1,0 +1,12 @@
+D:\GitHub SoftUni\Softuni\Advanced C-Sharp\Sets and Dictionaries Advanced - LAB\07.ParkingLot\bin\Debug\netcoreapp3.1\07.ParkingLot.exe
+D:\GitHub SoftUni\Softuni\Advanced C-Sharp\Sets and Dictionaries Advanced - LAB\07.ParkingLot\bin\Debug\netcoreapp3.1\07.ParkingLot.deps.json
+D:\GitHub SoftUni\Softuni\Advanced C-Sharp\Sets and Dictionaries Advanced - LAB\07.ParkingLot\bin\Debug\netcoreapp3.1\07.ParkingLot.runtimeconfig.json
+D:\GitHub SoftUni\Softuni\Advanced C-Sharp\Sets and Dictionaries Advanced - LAB\07.ParkingLot\bin\Debug\netcoreapp3.1\07.ParkingLot.runtimeconfig.dev.json
+D:\GitHub SoftUni\Softuni\Advanced C-Sharp\Sets and Dictionaries Advanced - LAB\07.ParkingLot\bin\Debug\netcoreapp3.1\07.ParkingLot.dll
+D:\GitHub SoftUni\Softuni\Advanced C-Sharp\Sets and Dictionaries Advanced - LAB\07.ParkingLot\bin\Debug\netcoreapp3.1\07.ParkingLot.pdb
+D:\GitHub SoftUni\Softuni\Advanced C-Sharp\Sets and Dictionaries Advanced - LAB\07.ParkingLot\obj\Debug\netcoreapp3.1\07.ParkingLot.AssemblyInfoInputs.cache
+D:\GitHub SoftUni\Softuni\Advanced C-Sharp\Sets and Dictionaries Advanced - LAB\07.ParkingLot\obj\Debug\netcoreapp3.1\07.ParkingLot.AssemblyInfo.cs
+D:\GitHub SoftUni\Softuni\Advanced C-Sharp\Sets and Dictionaries Advanced - LAB\07.ParkingLot\obj\Debug\netcoreapp3.1\07.ParkingLot.csproj.CoreCompileInputs.cache
+D:\GitHub SoftUni\Softuni\Advanced C-Sharp\Sets and Dictionaries Advanced - LAB\07.ParkingLot\obj\Debug\netcoreapp3.1\07.ParkingLot.dll
+D:\GitHub SoftUni\Softuni\Advanced C-Sharp\Sets and Dictionaries Advanced - LAB\07.ParkingLot\obj\Debug\netcoreapp3.1\07.ParkingLot.pdb
+D:\GitHub SoftUni\Softuni\Advanced C-Sharp\Sets and Dictionaries Advanced - LAB\07.ParkingLot\obj\Debug\netcoreapp3.1\07.ParkingLot.genruntimeconfig.cache
