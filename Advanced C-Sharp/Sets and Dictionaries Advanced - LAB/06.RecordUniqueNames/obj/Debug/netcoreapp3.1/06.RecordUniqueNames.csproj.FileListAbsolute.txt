@@ -1,0 +1,12 @@
+D:\GitHub SoftUni\Softuni\Advanced C-Sharp\Sets and Dictionaries Advanced - LAB\06.RecordUniqueNames\bin\Debug\netcoreapp3.1\06.RecordUniqueNames.exe
+D:\GitHub SoftUni\Softuni\Advanced C-Sharp\Sets and Dictionaries Advanced - LAB\06.RecordUniqueNames\bin\Debug\netcoreapp3.1\06.RecordUniqueNames.deps.json
+D:\GitHub SoftUni\Softuni\Advanced C-Sharp\Sets and Dictionaries Advanced - LAB\06.RecordUniqueNames\bin\Debug\netcoreapp3.1\06.RecordUniqueNames.runtimeconfig.json
+D:\GitHub SoftUni\Softuni\Advanced C-Sharp\Sets and Dictionaries Advanced - LAB\06.RecordUniqueNames\bin\Debug\netcoreapp3.1\06.RecordUniqueNames.runtimeconfig.dev.json
+D:\GitHub SoftUni\Softuni\Advanced C-Sharp\Sets and Dictionaries Advanced - LAB\06.RecordUniqueNames\bin\Debug\netcoreapp3.1\06.RecordUniqueNames.dll
+D:\GitHub SoftUni\Softuni\Advanced C-Sharp\Sets and Dictionaries Advanced - LAB\06.RecordUniqueNames\bin\Debug\netcoreapp3.1\06.RecordUniqueNames.pdb
+D:\GitHub SoftUni\Softuni\Advanced C-Sharp\Sets and Dictionaries Advanced - LAB\06.RecordUniqueNames\obj\Debug\netcoreapp3.1\06.RecordUniqueNames.AssemblyInfoInputs.cache
+D:\GitHub SoftUni\Softuni\Advanced C-Sharp\Sets and Dictionaries Advanced - LAB\06.RecordUniqueNames\obj\Debug\netcoreapp3.1\06.RecordUniqueNames.AssemblyInfo.cs
+D:\GitHub SoftUni\Softuni\Advanced C-Sharp\Sets and Dictionaries Advanced - LAB\06.RecordUniqueNames\obj\Debug\netcoreapp3.1\06.RecordUniqueNames.csproj.CoreCompileInputs.cache
+D:\GitHub SoftUni\Softuni\Advanced C-Sharp\Sets and Dictionaries Advanced - LAB\06.RecordUniqueNames\obj\Debug\netcoreapp3.1\06.RecordUniqueNames.dll
+D:\GitHub SoftUni\Softuni\Advanced C-Sharp\Sets and Dictionaries Advanced - LAB\06.RecordUniqueNames\obj\Debug\netcoreapp3.1\06.RecordUniqueNames.pdb
+D:\GitHub SoftUni\Softuni\Advanced C-Sharp\Sets and Dictionaries Advanced - LAB\06.RecordUniqueNames\obj\Debug\netcoreapp3.1\06.RecordUniqueNames.genruntimeconfig.cache
