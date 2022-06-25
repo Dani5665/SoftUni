@@ -112,7 +112,7 @@ namespace CarManufacturer
         }
 
     }
-    class Engine
+    public class Engine
     {
         private int horsePower;
         private double cubicCapacity;
@@ -133,7 +133,7 @@ namespace CarManufacturer
             this.CubicCapacity = cubicCapacity;
         }
     }
-    class Tire
+    public class Tire
     {
         private int year;
         private double pressure;
