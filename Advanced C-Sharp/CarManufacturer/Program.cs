@@ -7,15 +7,15 @@ namespace CarManufacturer
     {
         static void Main(string[] args)
         {
-            Car car = new Car();
+            string make = Console.ReadLine();
+            string model = Console.ReadLine();
+            int year = int.Parse(Console.ReadLine());
+            double fuelQuantity = double.Parse(Console.ReadLine());
+            double fuelConsumption = double.Parse(Console.ReadLine());
 
-            car.Make = "VW";
-            car.Model = "MK3";
-            car.Year = 1992;
-            car.FuelQuantity = 200;
-            car.FuelConsumption = 200;
-            car.Drive(2000);
-            Console.WriteLine(car.WhoAmI());
+            Car firstCar = new Car();
+            Car secondCar = new Car(make, model, year);
+            Car thirdCar = new Car(make, model, year, fuelQuantity, fuelConsumption);
         }
 
     }
@@ -67,6 +67,27 @@ namespace CarManufacturer
         {
             return $"Make: {Make}\nModel: {Model}\nYear: {Year}\nFuel: {fuelQuantity:F2}".ToString();
                 
+        }
+        public Car()
+        {
+            Make = "VW";
+            Model = "Golf";
+            Year = 2025;
+            FuelQuantity = 200;
+            FuelConsumption = 200;
+        }
+        public Car(string make, string model, int year) 
+        : this()
+        {
+            this.Make = make;
+            this.Model = model;
+            this.Year = year;
+        }
+        public Car(string make, string model, int year, double fuelQuantity, double fuelConsumption)
+            :this(make, model, year)
+        {
+            this.FuelQuantity = fuelQuantity;
+            this.FuelConsumption = fuelConsumption;
         }
 
     }
