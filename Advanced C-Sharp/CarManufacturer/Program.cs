@@ -74,7 +74,7 @@ namespace CarManufacturer
             Model = "Golf";
             Year = 2025;
             FuelQuantity = 200;
-            FuelConsumption = 200;
+            FuelConsumption = 10;
         }
         public Car(string make, string model, int year) 
         : this()
