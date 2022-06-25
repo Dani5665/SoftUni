@@ -7,15 +7,17 @@ namespace CarManufacturer
     {
         static void Main(string[] args)
         {
-            string make = Console.ReadLine();
-            string model = Console.ReadLine();
-            int year = int.Parse(Console.ReadLine());
-            double fuelQuantity = double.Parse(Console.ReadLine());
-            double fuelConsumption = double.Parse(Console.ReadLine());
+            var tires = new Tire[4]
+            {
+                new Tire(1, 2.5),
+                new Tire(1, 2.1),
+                new Tire(2, 0.5),
+                new Tire(2, 2.3)
+            };
 
-            Car firstCar = new Car();
-            Car secondCar = new Car(make, model, year);
-            Car thirdCar = new Car(make, model, year, fuelQuantity, fuelConsumption);
+            var engine = new Engine(560, 6300);
+
+            var car = new Car("Lamborghini", "Urus", 2010, 250, 9, engine, tires);
         }
 
     }
@@ -26,6 +28,19 @@ namespace CarManufacturer
         private int year;
         private double fuelQuantity;
         private double fuelConsumption;
+        private Engine engine;
+        private Tire[] tires;
+
+        public Engine Engine
+        {
+            get { return engine; }
+            set { engine = value; }
+        }
+        public Tire[] Tires
+        {
+            get { return tires; }
+            set { tires = value; }
+        }
         public string Make
         {
             get { return make; }
@@ -89,6 +104,54 @@ namespace CarManufacturer
             this.FuelQuantity = fuelQuantity;
             this.FuelConsumption = fuelConsumption;
         }
+        public Car(string make, string model, int year, double fuelQuantity, double fuelConsumption, Engine engine, Tire[] tires)
+            : this(make, model, year, fuelQuantity, fuelConsumption)
+        {
+            this.Engine = engine;
+            this.Tires = tires;
+        }
 
+    }
+    class Engine
+    {
+        private int horsePower;
+        private double cubicCapacity;
+        
+        public int HorsePower
+        {
+            get { return horsePower; }
+            set { horsePower = value; }
+        }
+        public double CubicCapacity
+        {
+            get { return cubicCapacity; }
+            set { cubicCapacity = value; }
+        }
+        public Engine(int horsePower, double cubicCapacity)
+        {
+            this.HorsePower = horsePower;
+            this.CubicCapacity = cubicCapacity;
+        }
+    }
+    class Tire
+    {
+        private int year;
+        private double pressure;
+
+        public int Year
+        {
+            get { return year; }
+            set { year = value; }
+        }
+        public double Pressure
+        {
+            get { return pressure; }
+            set { pressure = value; }
+        }
+        public Tire(int year, double pressure)
+        {
+            this.Year = year;
+            this.Pressure = pressure;
+        }
     }
 }
