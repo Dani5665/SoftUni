@@ -8,7 +8,10 @@ namespace BoxOfT
     {
         static void Main(string[] args)
         {
-            
+            var box = new Box<string>();
+            box.Add("pesho");
+            box.Add("gosho");
+            box.Remove();
         }
     }
 
@@ -20,9 +23,10 @@ namespace BoxOfT
         {
             list.Push(a);
         }
-        public void Remove()
+        public T Remove()
         {
-            list.Pop();
+            T element = list.Pop();
+            return element;
         }
         public int Count => list.Count;
         
