@@ -8,10 +8,7 @@ namespace BoxOfT
     {
         static void Main(string[] args)
         {
-            var box = new Box<string>();
-            box.Add("pesho");
-            box.Add("gosho");
-            box.Remove();
+            Box<int> box 
         }
     }
 
