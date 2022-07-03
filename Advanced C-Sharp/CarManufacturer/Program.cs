@@ -116,7 +116,7 @@ namespace CarManufacturer
     {
         private int horsePower;
         private double cubicCapacity;
-        
+
         public int HorsePower
         {
             get { return horsePower; }

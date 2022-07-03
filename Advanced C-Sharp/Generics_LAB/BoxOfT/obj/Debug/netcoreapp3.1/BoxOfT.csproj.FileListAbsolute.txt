@@ -1,0 +1,13 @@
+D:\GitHub SoftUni\Softuni\Advanced C-Sharp\Generics_LAB\BoxOfT\bin\Debug\netcoreapp3.1\BoxOfT.exe
+D:\GitHub SoftUni\Softuni\Advanced C-Sharp\Generics_LAB\BoxOfT\bin\Debug\netcoreapp3.1\BoxOfT.deps.json
+D:\GitHub SoftUni\Softuni\Advanced C-Sharp\Generics_LAB\BoxOfT\bin\Debug\netcoreapp3.1\BoxOfT.runtimeconfig.json
+D:\GitHub SoftUni\Softuni\Advanced C-Sharp\Generics_LAB\BoxOfT\bin\Debug\netcoreapp3.1\BoxOfT.runtimeconfig.dev.json
+D:\GitHub SoftUni\Softuni\Advanced C-Sharp\Generics_LAB\BoxOfT\bin\Debug\netcoreapp3.1\BoxOfT.dll
+D:\GitHub SoftUni\Softuni\Advanced C-Sharp\Generics_LAB\BoxOfT\bin\Debug\netcoreapp3.1\BoxOfT.pdb
+D:\GitHub SoftUni\Softuni\Advanced C-Sharp\Generics_LAB\BoxOfT\obj\Debug\netcoreapp3.1\BoxOfT.csprojAssemblyReference.cache
+D:\GitHub SoftUni\Softuni\Advanced C-Sharp\Generics_LAB\BoxOfT\obj\Debug\netcoreapp3.1\BoxOfT.AssemblyInfoInputs.cache
+D:\GitHub SoftUni\Softuni\Advanced C-Sharp\Generics_LAB\BoxOfT\obj\Debug\netcoreapp3.1\BoxOfT.AssemblyInfo.cs
+D:\GitHub SoftUni\Softuni\Advanced C-Sharp\Generics_LAB\BoxOfT\obj\Debug\netcoreapp3.1\BoxOfT.csproj.CoreCompileInputs.cache
+D:\GitHub SoftUni\Softuni\Advanced C-Sharp\Generics_LAB\BoxOfT\obj\Debug\netcoreapp3.1\BoxOfT.dll
+D:\GitHub SoftUni\Softuni\Advanced C-Sharp\Generics_LAB\BoxOfT\obj\Debug\netcoreapp3.1\BoxOfT.pdb
+D:\GitHub SoftUni\Softuni\Advanced C-Sharp\Generics_LAB\BoxOfT\obj\Debug\netcoreapp3.1\BoxOfT.genruntimeconfig.cache
