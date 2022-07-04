@@ -6,27 +6,35 @@ namespace _07.Tuple
     {
         static void Main(string[] args)
         {
-            string[] inputNameTown = Console.ReadLine().Split(" ", StringSplitOptions.RemoveEmptyEntries);
-            string name = inputNameTown[0] + " " + inputNameTown[1];
-            string town = inputNameTown[2];
-            if (inputNameTown.Length == 4)
+            string[] inputNameTownAdress = Console.ReadLine().Split(" ", StringSplitOptions.RemoveEmptyEntries);
+            string name = inputNameTownAdress[0] + " " + inputNameTownAdress[1];
+            string adress = inputNameTownAdress[2];
+            string town = inputNameTownAdress[3];
+            if (inputNameTownAdress.Length == 5)
             {
-                town = inputNameTown[2] + " " + inputNameTown[3];
+                town = inputNameTownAdress[3] + " " + inputNameTownAdress[4];
             }                      
-            MyTuple<string, string> nameTown =
-                new MyTuple<string, string>(name, town);
+            MyTuple<string, string, string> nameTown =
+                new MyTuple<string, string,string>(name,adress,town);
 
             string[] inputNameLiters = Console.ReadLine().Split(" ", StringSplitOptions.RemoveEmptyEntries);
             string name2 = inputNameLiters[0];
             int liters = int.Parse(inputNameLiters[1]);
-            MyTuple<string, int> nameLiters =
-                new MyTuple<string, int>(name2, liters);
+            string drunkOrNot = inputNameLiters[2];
+            bool drunkOrNotBool = false;
+            if (drunkOrNot == "drunk")
+            {
+                drunkOrNotBool = true;
+            }
+            MyTuple<string, int, bool> nameLiters =
+                new MyTuple<string, int, bool>(name2, liters, drunkOrNotBool);
 
-            string[] inputNumbers = Console.ReadLine().Split(" ", StringSplitOptions.RemoveEmptyEntries);
-            int num1 = int.Parse(inputNumbers[0]);
-            double num2 = double.Parse(inputNumbers[1]);
-            MyTuple<int, double> numbers =
-                new MyTuple<int, double>(num1, num2);
+            string[] inputNameAndBank = Console.ReadLine().Split(" ", StringSplitOptions.RemoveEmptyEntries);
+            string name3 = inputNameAndBank[0];
+            double bankBallance = double.Parse(inputNameAndBank[1]);
+            string bankName = inputNameAndBank[2];
+            MyTuple<string, double, string> numbers =
+                new MyTuple<string, double, string>(name3, bankBallance, bankName);
 
             Console.WriteLine(nameTown.GetItems());
             Console.WriteLine(nameLiters.GetItems());
