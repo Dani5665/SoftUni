@@ -1,0 +1,13 @@
+D:\GitHub SoftUni\Softuni\Advanced C-Sharp\Generics_EXERCISE\05.GenericCountMethodString\bin\Debug\netcoreapp3.1\05.GenericCountMethodString.exe
+D:\GitHub SoftUni\Softuni\Advanced C-Sharp\Generics_EXERCISE\05.GenericCountMethodString\bin\Debug\netcoreapp3.1\05.GenericCountMethodString.deps.json
+D:\GitHub SoftUni\Softuni\Advanced C-Sharp\Generics_EXERCISE\05.GenericCountMethodString\bin\Debug\netcoreapp3.1\05.GenericCountMethodString.runtimeconfig.json
+D:\GitHub SoftUni\Softuni\Advanced C-Sharp\Generics_EXERCISE\05.GenericCountMethodString\bin\Debug\netcoreapp3.1\05.GenericCountMethodString.runtimeconfig.dev.json
+D:\GitHub SoftUni\Softuni\Advanced C-Sharp\Generics_EXERCISE\05.GenericCountMethodString\bin\Debug\netcoreapp3.1\05.GenericCountMethodString.dll
+D:\GitHub SoftUni\Softuni\Advanced C-Sharp\Generics_EXERCISE\05.GenericCountMethodString\bin\Debug\netcoreapp3.1\05.GenericCountMethodString.pdb
+D:\GitHub SoftUni\Softuni\Advanced C-Sharp\Generics_EXERCISE\05.GenericCountMethodString\obj\Debug\netcoreapp3.1\05.GenericCountMethodString.csprojAssemblyReference.cache
+D:\GitHub SoftUni\Softuni\Advanced C-Sharp\Generics_EXERCISE\05.GenericCountMethodString\obj\Debug\netcoreapp3.1\05.GenericCountMethodString.AssemblyInfoInputs.cache
+D:\GitHub SoftUni\Softuni\Advanced C-Sharp\Generics_EXERCISE\05.GenericCountMethodString\obj\Debug\netcoreapp3.1\05.GenericCountMethodString.AssemblyInfo.cs
+D:\GitHub SoftUni\Softuni\Advanced C-Sharp\Generics_EXERCISE\05.GenericCountMethodString\obj\Debug\netcoreapp3.1\05.GenericCountMethodString.csproj.CoreCompileInputs.cache
+D:\GitHub SoftUni\Softuni\Advanced C-Sharp\Generics_EXERCISE\05.GenericCountMethodString\obj\Debug\netcoreapp3.1\05.GenericCountMethodString.dll
+D:\GitHub SoftUni\Softuni\Advanced C-Sharp\Generics_EXERCISE\05.GenericCountMethodString\obj\Debug\netcoreapp3.1\05.GenericCountMethodString.pdb
+D:\GitHub SoftUni\Softuni\Advanced C-Sharp\Generics_EXERCISE\05.GenericCountMethodString\obj\Debug\netcoreapp3.1\05.GenericCountMethodString.genruntimeconfig.cache
