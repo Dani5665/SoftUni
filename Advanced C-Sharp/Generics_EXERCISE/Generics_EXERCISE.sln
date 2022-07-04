@@ -5,6 +5,10 @@ VisualStudioVersion = 16.0.31005.135
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.GenericBoxOfString", "01.GenericBoxOfString\01.GenericBoxOfString.csproj", "{5EE673E2-99D7-4E95-A26C-1D486CFA2E58}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.GenericBoxOfInteger", "02.GenericBoxOfInteger\02.GenericBoxOfInteger.csproj", "{BA46F98C-490A-485A-86ED-19356E2CD10B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.GenericSwapMethodString", "03.GenericSwapMethodString\03.GenericSwapMethodString.csproj", "{3DB53211-A2A5-4D41-B038-5D9F06EB6B85}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{5EE673E2-99D7-4E95-A26C-1D486CFA2E58}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5EE673E2-99D7-4E95-A26C-1D486CFA2E58}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5EE673E2-99D7-4E95-A26C-1D486CFA2E58}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA46F98C-490A-485A-86ED-19356E2CD10B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA46F98C-490A-485A-86ED-19356E2CD10B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA46F98C-490A-485A-86ED-19356E2CD10B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA46F98C-490A-485A-86ED-19356E2CD10B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3DB53211-A2A5-4D41-B038-5D9F06EB6B85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DB53211-A2A5-4D41-B038-5D9F06EB6B85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DB53211-A2A5-4D41-B038-5D9F06EB6B85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DB53211-A2A5-4D41-B038-5D9F06EB6B85}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

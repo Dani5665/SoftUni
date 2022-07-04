@@ -1,0 +1,13 @@
+D:\GitHub SoftUni\Softuni\Advanced C-Sharp\Generics_EXERCISE\02.GenericBoxOfInteger\bin\Debug\netcoreapp3.1\02.GenericBoxOfInteger.exe
+D:\GitHub SoftUni\Softuni\Advanced C-Sharp\Generics_EXERCISE\02.GenericBoxOfInteger\bin\Debug\netcoreapp3.1\02.GenericBoxOfInteger.deps.json
+D:\GitHub SoftUni\Softuni\Advanced C-Sharp\Generics_EXERCISE\02.GenericBoxOfInteger\bin\Debug\netcoreapp3.1\02.GenericBoxOfInteger.runtimeconfig.json
+D:\GitHub SoftUni\Softuni\Advanced C-Sharp\Generics_EXERCISE\02.GenericBoxOfInteger\bin\Debug\netcoreapp3.1\02.GenericBoxOfInteger.runtimeconfig.dev.json
+D:\GitHub SoftUni\Softuni\Advanced C-Sharp\Generics_EXERCISE\02.GenericBoxOfInteger\bin\Debug\netcoreapp3.1\02.GenericBoxOfInteger.dll
+D:\GitHub SoftUni\Softuni\Advanced C-Sharp\Generics_EXERCISE\02.GenericBoxOfInteger\bin\Debug\netcoreapp3.1\02.GenericBoxOfInteger.pdb
+D:\GitHub SoftUni\Softuni\Advanced C-Sharp\Generics_EXERCISE\02.GenericBoxOfInteger\obj\Debug\netcoreapp3.1\02.GenericBoxOfInteger.csprojAssemblyReference.cache
+D:\GitHub SoftUni\Softuni\Advanced C-Sharp\Generics_EXERCISE\02.GenericBoxOfInteger\obj\Debug\netcoreapp3.1\02.GenericBoxOfInteger.AssemblyInfoInputs.cache
+D:\GitHub SoftUni\Softuni\Advanced C-Sharp\Generics_EXERCISE\02.GenericBoxOfInteger\obj\Debug\netcoreapp3.1\02.GenericBoxOfInteger.AssemblyInfo.cs
+D:\GitHub SoftUni\Softuni\Advanced C-Sharp\Generics_EXERCISE\02.GenericBoxOfInteger\obj\Debug\netcoreapp3.1\02.GenericBoxOfInteger.csproj.CoreCompileInputs.cache
+D:\GitHub SoftUni\Softuni\Advanced C-Sharp\Generics_EXERCISE\02.GenericBoxOfInteger\obj\Debug\netcoreapp3.1\02.GenericBoxOfInteger.dll
+D:\GitHub SoftUni\Softuni\Advanced C-Sharp\Generics_EXERCISE\02.GenericBoxOfInteger\obj\Debug\netcoreapp3.1\02.GenericBoxOfInteger.pdb
+D:\GitHub SoftUni\Softuni\Advanced C-Sharp\Generics_EXERCISE\02.GenericBoxOfInteger\obj\Debug\netcoreapp3.1\02.GenericBoxOfInteger.genruntimeconfig.cache
