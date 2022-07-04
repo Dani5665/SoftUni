@@ -1,0 +1,13 @@
+D:\GitHub SoftUni\Softuni\Advanced C-Sharp\Generics_EXERCISE\07.Tuple\bin\Debug\netcoreapp3.1\07.Tuple.exe
+D:\GitHub SoftUni\Softuni\Advanced C-Sharp\Generics_EXERCISE\07.Tuple\bin\Debug\netcoreapp3.1\07.Tuple.deps.json
+D:\GitHub SoftUni\Softuni\Advanced C-Sharp\Generics_EXERCISE\07.Tuple\bin\Debug\netcoreapp3.1\07.Tuple.runtimeconfig.json
+D:\GitHub SoftUni\Softuni\Advanced C-Sharp\Generics_EXERCISE\07.Tuple\bin\Debug\netcoreapp3.1\07.Tuple.runtimeconfig.dev.json
+D:\GitHub SoftUni\Softuni\Advanced C-Sharp\Generics_EXERCISE\07.Tuple\bin\Debug\netcoreapp3.1\07.Tuple.dll
+D:\GitHub SoftUni\Softuni\Advanced C-Sharp\Generics_EXERCISE\07.Tuple\bin\Debug\netcoreapp3.1\07.Tuple.pdb
+D:\GitHub SoftUni\Softuni\Advanced C-Sharp\Generics_EXERCISE\07.Tuple\obj\Debug\netcoreapp3.1\07.Tuple.csprojAssemblyReference.cache
+D:\GitHub SoftUni\Softuni\Advanced C-Sharp\Generics_EXERCISE\07.Tuple\obj\Debug\netcoreapp3.1\07.Tuple.AssemblyInfoInputs.cache
+D:\GitHub SoftUni\Softuni\Advanced C-Sharp\Generics_EXERCISE\07.Tuple\obj\Debug\netcoreapp3.1\07.Tuple.AssemblyInfo.cs
+D:\GitHub SoftUni\Softuni\Advanced C-Sharp\Generics_EXERCISE\07.Tuple\obj\Debug\netcoreapp3.1\07.Tuple.csproj.CoreCompileInputs.cache
+D:\GitHub SoftUni\Softuni\Advanced C-Sharp\Generics_EXERCISE\07.Tuple\obj\Debug\netcoreapp3.1\07.Tuple.dll
+D:\GitHub SoftUni\Softuni\Advanced C-Sharp\Generics_EXERCISE\07.Tuple\obj\Debug\netcoreapp3.1\07.Tuple.pdb
+D:\GitHub SoftUni\Softuni\Advanced C-Sharp\Generics_EXERCISE\07.Tuple\obj\Debug\netcoreapp3.1\07.Tuple.genruntimeconfig.cache
