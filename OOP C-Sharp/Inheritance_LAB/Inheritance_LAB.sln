@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Farm", "Farm\Farm.csproj", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomRandomList", "CustomRandomList\CustomRandomList.csproj", "{DAE78CB2-4596-420B-A4AB-9FF5A3957F36}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomStack", "CustomStack\CustomStack.csproj", "{8CF32CB3-5A6B-48E7-9210-6D9F9A2381CE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{DAE78CB2-4596-420B-A4AB-9FF5A3957F36}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DAE78CB2-4596-420B-A4AB-9FF5A3957F36}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DAE78CB2-4596-420B-A4AB-9FF5A3957F36}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8CF32CB3-5A6B-48E7-9210-6D9F9A2381CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CF32CB3-5A6B-48E7-9210-6D9F9A2381CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CF32CB3-5A6B-48E7-9210-6D9F9A2381CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CF32CB3-5A6B-48E7-9210-6D9F9A2381CE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
