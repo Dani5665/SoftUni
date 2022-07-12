@@ -1,0 +1,13 @@
+D:\GitHub SoftUni\Softuni\OOP C-Sharp\Inheritance_LAB\Farm\bin\Debug\netcoreapp3.1\Farm.exe
+D:\GitHub SoftUni\Softuni\OOP C-Sharp\Inheritance_LAB\Farm\bin\Debug\netcoreapp3.1\Farm.deps.json
+D:\GitHub SoftUni\Softuni\OOP C-Sharp\Inheritance_LAB\Farm\bin\Debug\netcoreapp3.1\Farm.runtimeconfig.json
+D:\GitHub SoftUni\Softuni\OOP C-Sharp\Inheritance_LAB\Farm\bin\Debug\netcoreapp3.1\Farm.runtimeconfig.dev.json
+D:\GitHub SoftUni\Softuni\OOP C-Sharp\Inheritance_LAB\Farm\bin\Debug\netcoreapp3.1\Farm.dll
+D:\GitHub SoftUni\Softuni\OOP C-Sharp\Inheritance_LAB\Farm\bin\Debug\netcoreapp3.1\Farm.pdb
+D:\GitHub SoftUni\Softuni\OOP C-Sharp\Inheritance_LAB\Farm\obj\Debug\netcoreapp3.1\Farm.csprojAssemblyReference.cache
+D:\GitHub SoftUni\Softuni\OOP C-Sharp\Inheritance_LAB\Farm\obj\Debug\netcoreapp3.1\Farm.AssemblyInfoInputs.cache
+D:\GitHub SoftUni\Softuni\OOP C-Sharp\Inheritance_LAB\Farm\obj\Debug\netcoreapp3.1\Farm.AssemblyInfo.cs
+D:\GitHub SoftUni\Softuni\OOP C-Sharp\Inheritance_LAB\Farm\obj\Debug\netcoreapp3.1\Farm.csproj.CoreCompileInputs.cache
+D:\GitHub SoftUni\Softuni\OOP C-Sharp\Inheritance_LAB\Farm\obj\Debug\netcoreapp3.1\Farm.dll
+D:\GitHub SoftUni\Softuni\OOP C-Sharp\Inheritance_LAB\Farm\obj\Debug\netcoreapp3.1\Farm.pdb
+D:\GitHub SoftUni\Softuni\OOP C-Sharp\Inheritance_LAB\Farm\obj\Debug\netcoreapp3.1\Farm.genruntimeconfig.cache
