@@ -9,6 +9,9 @@ namespace Farm
             Dog dog = new Dog();
             dog.Bark();
             dog.Eat();
+
+            Puppy puppy = new Puppy();
+            puppy.Weep();
         }
     }
 }
