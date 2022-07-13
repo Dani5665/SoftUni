@@ -1,0 +1,13 @@
+D:\GitHub SoftUni\Softuni\OOP C-Sharp\Inheritance_EXERCISE\01.PERSON\Person\bin\Debug\netcoreapp3.1\Person.exe
+D:\GitHub SoftUni\Softuni\OOP C-Sharp\Inheritance_EXERCISE\01.PERSON\Person\bin\Debug\netcoreapp3.1\Person.deps.json
+D:\GitHub SoftUni\Softuni\OOP C-Sharp\Inheritance_EXERCISE\01.PERSON\Person\bin\Debug\netcoreapp3.1\Person.runtimeconfig.json
+D:\GitHub SoftUni\Softuni\OOP C-Sharp\Inheritance_EXERCISE\01.PERSON\Person\bin\Debug\netcoreapp3.1\Person.runtimeconfig.dev.json
+D:\GitHub SoftUni\Softuni\OOP C-Sharp\Inheritance_EXERCISE\01.PERSON\Person\bin\Debug\netcoreapp3.1\Person.dll
+D:\GitHub SoftUni\Softuni\OOP C-Sharp\Inheritance_EXERCISE\01.PERSON\Person\bin\Debug\netcoreapp3.1\Person.pdb
+D:\GitHub SoftUni\Softuni\OOP C-Sharp\Inheritance_EXERCISE\01.PERSON\Person\obj\Debug\netcoreapp3.1\Person.csprojAssemblyReference.cache
+D:\GitHub SoftUni\Softuni\OOP C-Sharp\Inheritance_EXERCISE\01.PERSON\Person\obj\Debug\netcoreapp3.1\Person.AssemblyInfoInputs.cache
+D:\GitHub SoftUni\Softuni\OOP C-Sharp\Inheritance_EXERCISE\01.PERSON\Person\obj\Debug\netcoreapp3.1\Person.AssemblyInfo.cs
+D:\GitHub SoftUni\Softuni\OOP C-Sharp\Inheritance_EXERCISE\01.PERSON\Person\obj\Debug\netcoreapp3.1\Person.csproj.CoreCompileInputs.cache
+D:\GitHub SoftUni\Softuni\OOP C-Sharp\Inheritance_EXERCISE\01.PERSON\Person\obj\Debug\netcoreapp3.1\Person.dll
+D:\GitHub SoftUni\Softuni\OOP C-Sharp\Inheritance_EXERCISE\01.PERSON\Person\obj\Debug\netcoreapp3.1\Person.pdb
+D:\GitHub SoftUni\Softuni\OOP C-Sharp\Inheritance_EXERCISE\01.PERSON\Person\obj\Debug\netcoreapp3.1\Person.genruntimeconfig.cache
