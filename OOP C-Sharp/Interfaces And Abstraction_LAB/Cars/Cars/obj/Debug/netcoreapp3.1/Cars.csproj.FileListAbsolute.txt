@@ -1,0 +1,12 @@
+D:\GitHub SoftUni\Softuni\OOP C-Sharp\Interfaces And Abstraction_LAB\Cars\Cars\bin\Debug\netcoreapp3.1\Cars.exe
+D:\GitHub SoftUni\Softuni\OOP C-Sharp\Interfaces And Abstraction_LAB\Cars\Cars\bin\Debug\netcoreapp3.1\Cars.deps.json
+D:\GitHub SoftUni\Softuni\OOP C-Sharp\Interfaces And Abstraction_LAB\Cars\Cars\bin\Debug\netcoreapp3.1\Cars.runtimeconfig.json
+D:\GitHub SoftUni\Softuni\OOP C-Sharp\Interfaces And Abstraction_LAB\Cars\Cars\bin\Debug\netcoreapp3.1\Cars.runtimeconfig.dev.json
+D:\GitHub SoftUni\Softuni\OOP C-Sharp\Interfaces And Abstraction_LAB\Cars\Cars\bin\Debug\netcoreapp3.1\Cars.dll
+D:\GitHub SoftUni\Softuni\OOP C-Sharp\Interfaces And Abstraction_LAB\Cars\Cars\bin\Debug\netcoreapp3.1\Cars.pdb
+D:\GitHub SoftUni\Softuni\OOP C-Sharp\Interfaces And Abstraction_LAB\Cars\Cars\obj\Debug\netcoreapp3.1\Cars.AssemblyInfoInputs.cache
+D:\GitHub SoftUni\Softuni\OOP C-Sharp\Interfaces And Abstraction_LAB\Cars\Cars\obj\Debug\netcoreapp3.1\Cars.AssemblyInfo.cs
+D:\GitHub SoftUni\Softuni\OOP C-Sharp\Interfaces And Abstraction_LAB\Cars\Cars\obj\Debug\netcoreapp3.1\Cars.csproj.CoreCompileInputs.cache
+D:\GitHub SoftUni\Softuni\OOP C-Sharp\Interfaces And Abstraction_LAB\Cars\Cars\obj\Debug\netcoreapp3.1\Cars.dll
+D:\GitHub SoftUni\Softuni\OOP C-Sharp\Interfaces And Abstraction_LAB\Cars\Cars\obj\Debug\netcoreapp3.1\Cars.pdb
+D:\GitHub SoftUni\Softuni\OOP C-Sharp\Interfaces And Abstraction_LAB\Cars\Cars\obj\Debug\netcoreapp3.1\Cars.genruntimeconfig.cache
