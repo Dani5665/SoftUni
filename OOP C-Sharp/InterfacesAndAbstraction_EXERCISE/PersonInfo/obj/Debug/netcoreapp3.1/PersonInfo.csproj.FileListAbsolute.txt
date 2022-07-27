@@ -1,0 +1,13 @@
+D:\GitHub SoftUni\Softuni\OOP C-Sharp\InterfacesAndAbstraction_EXERCISE\PersonInfo\bin\Debug\netcoreapp3.1\PersonInfo.exe
+D:\GitHub SoftUni\Softuni\OOP C-Sharp\InterfacesAndAbstraction_EXERCISE\PersonInfo\bin\Debug\netcoreapp3.1\PersonInfo.deps.json
+D:\GitHub SoftUni\Softuni\OOP C-Sharp\InterfacesAndAbstraction_EXERCISE\PersonInfo\bin\Debug\netcoreapp3.1\PersonInfo.runtimeconfig.json
+D:\GitHub SoftUni\Softuni\OOP C-Sharp\InterfacesAndAbstraction_EXERCISE\PersonInfo\bin\Debug\netcoreapp3.1\PersonInfo.runtimeconfig.dev.json
+D:\GitHub SoftUni\Softuni\OOP C-Sharp\InterfacesAndAbstraction_EXERCISE\PersonInfo\bin\Debug\netcoreapp3.1\PersonInfo.dll
+D:\GitHub SoftUni\Softuni\OOP C-Sharp\InterfacesAndAbstraction_EXERCISE\PersonInfo\bin\Debug\netcoreapp3.1\PersonInfo.pdb
+D:\GitHub SoftUni\Softuni\OOP C-Sharp\InterfacesAndAbstraction_EXERCISE\PersonInfo\obj\Debug\netcoreapp3.1\PersonInfo.csprojAssemblyReference.cache
+D:\GitHub SoftUni\Softuni\OOP C-Sharp\InterfacesAndAbstraction_EXERCISE\PersonInfo\obj\Debug\netcoreapp3.1\PersonInfo.AssemblyInfoInputs.cache
+D:\GitHub SoftUni\Softuni\OOP C-Sharp\InterfacesAndAbstraction_EXERCISE\PersonInfo\obj\Debug\netcoreapp3.1\PersonInfo.AssemblyInfo.cs
+D:\GitHub SoftUni\Softuni\OOP C-Sharp\InterfacesAndAbstraction_EXERCISE\PersonInfo\obj\Debug\netcoreapp3.1\PersonInfo.csproj.CoreCompileInputs.cache
+D:\GitHub SoftUni\Softuni\OOP C-Sharp\InterfacesAndAbstraction_EXERCISE\PersonInfo\obj\Debug\netcoreapp3.1\PersonInfo.dll
+D:\GitHub SoftUni\Softuni\OOP C-Sharp\InterfacesAndAbstraction_EXERCISE\PersonInfo\obj\Debug\netcoreapp3.1\PersonInfo.pdb
+D:\GitHub SoftUni\Softuni\OOP C-Sharp\InterfacesAndAbstraction_EXERCISE\PersonInfo\obj\Debug\netcoreapp3.1\PersonInfo.genruntimeconfig.cache
