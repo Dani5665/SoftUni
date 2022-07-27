@@ -17,7 +17,7 @@ namespace Telephony.Classes
             }
             else
             {
-                Console.WriteLine($"Browsing: {website}");                
+                Console.WriteLine($"Browsing: {website}!");                
             }
         }
 
